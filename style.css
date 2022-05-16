@@ -36,3 +36,9 @@ div{
     cursor: pointer;
     
 }
+
+h4{
+    text-align: center;
+    visibility: hidden;
+    
+}
